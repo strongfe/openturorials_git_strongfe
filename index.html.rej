@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -16,6 +16,7 @@
+         	<li>원격저장소</li>
+         	<li>push</li>
+         	<li>push1</li>
++        	<li>push.egoing</li>
+         </ul>
+         <p>add p tag</p>
+         <a>add a tag</a>
